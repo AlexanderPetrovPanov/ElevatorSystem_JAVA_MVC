@@ -16,7 +16,7 @@ You are free to use this project under GPL3 license. License itself you can find
 https://www.gnu.org/licenses/gpl-3.0.html<br/>
 I am not responsuble for anything with this code, use on your own risk.
    
-Main source for C# programming languge:<br/>https://learn.microsoft.com/dotnet/csharp.
+Main source for JAVA programming languge:<br/>[https://docs.oracle.com/en/java/javase/24/docs/api/index.html].<br/>Or ask your favorite AI companion or trusted search engine!
 
 ![Screenshot of Java and C# implementation of Elevator Management System side by side](https://github.com/AlexanderPetrovPanov/ElevatorSystem_JAVA_MVC/blob/main/Elevator.java-VS.-Elevator.cs.png)
 
