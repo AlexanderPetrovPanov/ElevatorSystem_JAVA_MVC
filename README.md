@@ -18,5 +18,5 @@ I am not responsuble for anything with this code, use on your own risk.
    
 Main source for C# programming languge:<br/>https://learn.microsoft.com/dotnet/csharp.
 
-![Screenshot of Java and C# implementation of Elevator Management System side by side](https://github.com/AlexanderPetrovPanov/ElevatorSystem_CSharp_MVC/blob/main/Elevator.java-VS.-Elevator.cs.png)
+![Screenshot of Java and C# implementation of Elevator Management System side by side](https://github.com/AlexanderPetrovPanov/ElevatorSystem_JAVA_MVC/blob/main/Elevator.java-VS.-Elevator.cs.png)
 
